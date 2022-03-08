@@ -28,5 +28,5 @@
 * `python ddos.py`
 
 ## Screenshots
-![first]('https://i.ibb.co/2vNYKfw/firstss-png.png')
-![second]('https://i.ibb.co/V39xHK7/secondss-png.png')
+![first](https://i.ibb.co/2vNYKfw/firstss-png.png)
+![second](https://i.ibb.co/V39xHK7/secondss-png.png)
